@@ -1,2 +1,2 @@
-site,location,land cover type,day of year,time of day,value,remarks
-example,London,built-up surface,10,13:00,0.1,a sample concrete slab
+site,location,land cover type,day of year,time of day,value,reference,remarks
+example,London,built-up surface,10,13:00,0.1,[Kotthaus et al (2014)](https://www.sciencedirect.com/science/article/pii/S0924271614001233#),a sample concrete slab
