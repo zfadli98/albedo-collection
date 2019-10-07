@@ -1,2 +1,2 @@
-site,value,remarks
-example,0.1,a sample concrete slab
+site,location,land cover type,day of year,time of day,value,remarks
+example,London,built-up surface,10,13:00,0.1,a sample concrete slab
