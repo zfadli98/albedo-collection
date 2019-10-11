@@ -1,5 +1,6 @@
 site,location,land cover type,day of year,time of day,value,reference,remarks
 example,London,built-up surface,10,13:00,0.1,[Kotthaus et al (2014)](https://www.sciencedirect.com/science/article/pii/S0924271614001233#),a sample concrete slab
+US-MMS, Morgan Monroe State Forest, Deciduous Broadleaf Forest, , , 0.13, [Liu (2017)](https://www.sciencedirect.com/science/article/pii/S0034425717304339), value has seasonal variability-approximated from summer values,
 Crop field,UK,Cropland,25,13:00,0.2,Tom Markvart; Luis CastaŁżer (2003). Practical Handbook of Photovoltaics: Fundamentals and Applications. Elsevier. ISBN 978-1-85617-390-2., a short growing crop
 CA-Qsu,Quebec-Eastern Boreal,Black Spruce / Jack Pine Cutover, 15th December, 12:00,0.907, https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/96JD03876,winter time
 CA-Qfo,Quebec,Eastern Boreal - Mature Black Spruce,196,12:00,0.081,[Betts and Ball (1997)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/96JD03876),none
