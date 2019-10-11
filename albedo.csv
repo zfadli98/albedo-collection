@@ -1,2 +1,3 @@
 site,location,land cover type,day of year,time of day,value,reference,remarks
 example,London,built-up surface,10,13:00,0.1,[Kotthaus et al (2014)](https://www.sciencedirect.com/science/article/pii/S0924271614001233#),a sample concrete slab
+US-MOz, Missouri USA, Deciduous Broadleaf Forest, , Midday, 0.15+/-0.02,[Moore et al (1996)](doi:10.1175/1520-0450(1996)035<0122:SVIRAT>2.0.CO;2), Valid for summer days (a case study of a Deciduous forest)
