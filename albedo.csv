@@ -1,2 +1,3 @@
 site,location,land cover type,day of year,time of day,value,reference,remarks
 example,London,built-up surface,10,13:00,0.1,[Kotthaus et al (2014)](https://www.sciencedirect.com/science/article/pii/S0924271614001233#),a sample concrete slab
+Saskatchewan,Western Boreal, Mature Black Spruce, annual mean , daily mean , 0.145, https://books.google.co.uk/books?hl=en&lr=&id=gPDr7HLdSt4C&oi=fnd&pg=PA243&dq=saskatchewan+western+boreal+albedo&ots=1uXsc8Y7yH&sig=AwLL-ETw4EgW9haQtHK8vZIVxkI#v=onepage&q=albedo&f=false
