@@ -1,3 +1,8 @@
 site,location,land cover type,day of year,time of day,value,reference,remarks
 example,London,built-up surface,10,13:00,0.1,[Kotthaus et al (2014)](https://www.sciencedirect.com/science/article/pii/S0924271614001233#),a sample concrete slab
 40-50N, 40-50N, Deciduous Broadleaf Forest,74,12:00,0.142,[Gao et al (2005)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2004JD005190)
+Saskatchewan,Western Boreal, Mature Black Spruce, annual mean , daily mean , 0.145, https://books.google.co.uk/books?hl=en&lr=&id=gPDr7HLdSt4C&oi=fnd&pg=PA243&dq=saskatchewan+western+boreal+albedo&ots=1uXsc8Y7yH&sig=AwLL-ETw4EgW9haQtHK8vZIVxkI#v=onepage&q=albedo&f=false
+US-MOz, Missouri USA, Deciduous Broadleaf Forest, , Midday, 0.15+/-0.02,[Moore et al (1996)](doi:10.1175/1520-0450(1996)035<0122:SVIRAT>2.0.CO;2), Valid for summer days (a case study of a Deciduous forest)
+US-Oho,Oak Openings USA,deciduous broadleaf forest,July,,0.159,[Strugnell et al (2001)](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000GL011580)
+CA-Obs, Saskatchewan, ENF,,0.260, [Bright et al. (2014)] Empirical models of albedo transitions in managed boreal forests: analysis of performance and transportability, January average
+Crop field,UK,Cropland,25,13:00,0.2,Tom Markvart; Luis CastaŁżer (2003). Practical Handbook of Photovoltaics: Fundamentals and Applications. Elsevier. ISBN 978-1-85617-390-2., a short growing crop
