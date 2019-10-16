@@ -1,6 +1,6 @@
 site,location,land cover type,day of year,time of day,value,reference,remarks
 US-SRG, Santa Rita Grassland, Grassland, 27, 12:00, 0.24, `Moore (1976) <https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.49710243416>`_, summer value of grassland
-US-VAr, Vaira Ranch-Iona,grasslands,10,12:00,1,`Ryu et al. (2008) <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009263>`_,
+US-VAr, Vaira Ranch-Iona,grasslands,10,12:00,0.45,`Ryu et al. (2008) <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009263>`_,
 US-MMS, Morgan Monroe State Forest, Deciduous Broadleaf Forest, , , 0.13, `Liu (2017) <https://www.sciencedirect.com/science/article/pii/S0034425717304339>`_, value has seasonal variability-approximated from summer values
 Crop field,UK,Cropland,25,13:00,0.2,`Page (2012) <https://doi.org/10.1016/B978-0-12-385934-1.00017-9>`_, a short growing crop
 CA-Qsu,Quebec-Eastern Boreal,Black Spruce / Jack Pine Cutover, 15th December, 12:00,0.907, `Betts and Ball (1997) <https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/96JD03876>`_, winter time
