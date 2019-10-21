@@ -11,7 +11,7 @@ For roughness, we'd like to collect two set of values:
 Please enter your values in the row labeled by your site ID of [this CSV file](./roughness-cal.csv).
 
 ### Literature values
-Please enter your values in the row labeled by your group number [this CSV file](./roughness-ref.csv): each group is expected to report two records from literature.
+Please enter your values in the row labeled by your group number of [this CSV file](./roughness-ref.csv): each group is expected to report two records from literature.
 
 *Note:*
 
