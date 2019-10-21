@@ -11,6 +11,9 @@ For roughness, we'd like to collect two set of values:
 Please enter your values in the row labeled by your site ID of [this CSV file](./roughness-cal.csv).
 
 ### Literature values
-Please enter your values in the row labeled by your group number [this CSV file](./roughness-ref.csv): each group is expected to report two records from literature on similar land cover types.
+Please enter your values in the row labeled by your group number [this CSV file](./roughness-ref.csv): each group is expected to report two records from literature.
 
-*Note: Some parameters might not be reported in the literature so input as much information as you can find.*
+*Note:*
+
+1. The literature can be based on your worked site or other ones with a similar land cover.
+1. Some parameters might not be reported in the literature so input as much information as you can find.
