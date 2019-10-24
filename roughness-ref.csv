@@ -4,7 +4,7 @@ group,land cover,z0,zd,ra,reference
 2-1,,,,,
 2-2,,,,,
 3-1,,,,,
-3-2,,,,,
+3-2,Suburban Neighbourhood Park,0.03,0.2,-, `Kent et al. (2017) <https://doi.org/10.1007/s11252-017-0710-1>`_
 4-1,,,,,
 4-2,Boreal, Mature Black Spruce,0.22,9.66,50,`Kettridge et al. (2013) <https://doi.org/10.1002/jgrg.20043>`_
 5-1,,,,,
